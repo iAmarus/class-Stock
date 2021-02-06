@@ -1,4 +1,5 @@
 public class Stock {
+
 	//data field
 	String symbol;                 
 	String name; 
